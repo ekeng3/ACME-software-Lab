@@ -43,6 +43,7 @@ To use this project:
 
 The dataset used in this analysis is a CSV file containing road accident data for the year 2020. The main data source is in a SQLite database
 accident_data_v1.0.0_2023.db. Download the dataset at https://rb.gy/r19j12 (The EDA_data_source_&_extraction notebook contains the codes showing how the csv was extracted from the database)
+Data dictionary: https://github.com/ekeng3/ACME-software-Lab/blob/main/Data%20Dictionary.pdf
 
 ## Key Insights
 
